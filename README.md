@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarmingo</h1>
-<h3 align="center">A passionate developer for tools</h3>
+<h3 align="center">Fivem developer for scripts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarmingo" alt="Sarmingo" /> </p>
 
