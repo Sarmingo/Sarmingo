@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Fivem Scripts**
 
-- 🌱 I’m currently learning **css, html, js**
-
 - 📫 How to reach me **[https://discord.gg/Pfyp2seBed](https://discord.gg/Pfyp2seBed)**
 
 - ⚡ Fun fact **I give a lot of scripts for free**
