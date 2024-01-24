@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sarmingo</h1>
-<h3 align="center">Fivem developer for scripts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarmingo" alt="Sarmingo" /> </p>
 
 
 - 🔭 I’m currently working on **Fivem Scripts**
 
-- 📫 How to reach me **[https://discord.gg/Pfyp2seBed](https://discord.gg/Pfyp2seBed)**
+- 📫 How to reach me **Discord: sarmingo**
 
 - ⚡ Fun fact **I give a lot of scripts for free**
 
