@@ -1,23 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sarmingo</h1>
+# Hi there, I'm Sarmingo! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarmingo" alt="Sarmingo" /> </p>
+![Header Image](https://your-image-link.com/header-image.jpg) <!-- Replace with your image link -->
 
+## About Me
+I'm a passionate developer with a love for creating innovative solutions. Currently, I am focused on:
 
-- 🔭 I’m currently working on **Fivem Scripts**
+- Web development with Tailwind CSS and JavaScript
+- Building custom FiveM scripts
+- Exploring new technologies and frameworks
 
-- 📫 How to reach me **Discord: sarmingo**
+## Skills
+- **Languages:** JavaScript, HTML, CSS, Lua
+- **Frameworks:** Tailwind CSS, Bootstrap
+- **Tools:** FiveM, Git, VS Code
 
-- ⚡ Fun fact **I give a lot of scripts for free**
+## 🔥 My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarmingo&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical) <!-- Replace with your username -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@sarmingo6640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sarmingo" height="30" width="40" /></a>
+## 🌟 Featured Repositories
+Here are some of my most recent projects:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="java" width="40" height="40"/> </p>
+- [Project 1](https://github.com/sarmingo/project-1) - Description of Project 1
+- [Project 2](https://github.com/sarmingo/project-2) - Description of Project 2
+- [Project 3](https://github.com/sarmingo/project-3) - Description of Project 3
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarmingo&show_icons=true&locale=en&layout=compact" alt="Sarmingo" /></p>
+## 📫 How to Reach Me
+- **Twitter:** [@sarmingo](https://twitter.com/sarmingo)
+- **LinkedIn:** [Sarmingo](https://linkedin.com/in/sarmingo)
+- **Email:** [sarmingo@example.com](mailto:sarmingo@example.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarmingo&show_icons=true&locale=en" alt="Sarmingo" /></p>
+## 💬 Let's Connect
+Feel free to reach out if you want to collaborate on a project or just want to chat!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarmingo&" alt="Sarmingo" /></p>
+[![Twitter Badge](https://img.shields.io/badge/-Follow%20on%20Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sarmingo)
+[![LinkedIn Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarmingo)
