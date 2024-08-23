@@ -30,15 +30,12 @@ Here are some of my most noteworthy projects:
 ![Profile Views](https://komarev.com/ghpvc/?username=sarmingo&color=blue&style=flat) <!-- This is a dynamic view counter -->
 
 ## 📫 How to Reach Me
-- **Twitter:** [@sarmingo](https://twitter.com/sarmingo)
+- **Twitter:** [@sarmingo](https://twitter.com/sarmingo50)
 - **LinkedIn:** [Sarmingo](https://linkedin.com/in/sarmingo)
-- **Email:** [sarmingo@example.com](mailto:sarmingo@example.com)
+- **Email:** [sarmingo@example.com](mailto:sarmingo50@gmail.com)
 
 ## 💬 Let's Connect
 Feel free to reach out if you want to collaborate on exciting projects or just have a chat!
 
-[![Twitter Badge](https://img.shields.io/badge/-Follow%20on%20Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sarmingo)
+[![Twitter Badge](https://img.shields.io/badge/-Follow%20on%20Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sarmingo50)
 [![LinkedIn Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarmingo)
-
-## 📊 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sarmingo&theme=github&hide_border=true) <!-- Replace with your username -->
