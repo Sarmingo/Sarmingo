@@ -1,7 +1,5 @@
 # Hi there, I'm Sarmingo! 👋
 
-![Header Image](https://your-image-link.com/header-image.jpg) <!-- Replace with your image link -->
-
 ## About Me
 I'm a passionate developer with a flair for creating elegant and innovative solutions. Currently, I am focused on:
 
