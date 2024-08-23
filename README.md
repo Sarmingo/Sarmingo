@@ -3,26 +3,31 @@
 ![Header Image](https://your-image-link.com/header-image.jpg) <!-- Replace with your image link -->
 
 ## About Me
-I'm a passionate developer with a love for creating innovative solutions. Currently, I am focused on:
+I'm a passionate developer with a flair for creating elegant and innovative solutions. Currently, I am focused on:
 
-- Web development with Tailwind CSS and JavaScript
-- Building custom FiveM scripts
-- Exploring new technologies and frameworks
+- **Web Development:** Crafting beautiful and responsive interfaces with Tailwind CSS and JavaScript.
+- **Custom Scripts:** Developing tailored FiveM scripts to enhance gaming experiences.
+- **Tech Exploration:** Diving into new technologies and frameworks to stay ahead in the tech world.
 
 ## Skills
 - **Languages:** JavaScript, HTML, CSS, Lua
 - **Frameworks:** Tailwind CSS, Bootstrap
 - **Tools:** FiveM, Git, VS Code
+- **Databases:** MySQL, SQLite
 
-## 🔥 My Stats
+## 🔥 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarmingo&show_icons=true&hide_title=true&count_private=true&hide=prs&hide_border=true&theme=radical) <!-- Replace with your username -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmingo&layout=compact&hide_title=true&hide_border=true&theme=radical) <!-- Replace with your username -->
 
 ## 🌟 Featured Repositories
-Here are some of my most recent projects:
+Here are some of my most noteworthy projects:
 
-- [Project 1](https://github.com/sarmingo/project-1) - Description of Project 1
-- [Project 2](https://github.com/sarmingo/project-2) - Description of Project 2
-- [Project 3](https://github.com/sarmingo/project-3) - Description of Project 3
+- [**Project 1**](https://github.com/sarmingo/project-1) - A comprehensive description of Project 1, highlighting its features and impact.
+- [**Project 2**](https://github.com/sarmingo/project-2) - A brief overview of Project 2, showcasing its innovative approach.
+- [**Project 3**](https://github.com/sarmingo/project-3) - Details of Project 3, emphasizing its contribution to the community.
+
+## 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sarmingo&color=blue&style=flat) <!-- This is a dynamic view counter -->
 
 ## 📫 How to Reach Me
 - **Twitter:** [@sarmingo](https://twitter.com/sarmingo)
@@ -30,7 +35,10 @@ Here are some of my most recent projects:
 - **Email:** [sarmingo@example.com](mailto:sarmingo@example.com)
 
 ## 💬 Let's Connect
-Feel free to reach out if you want to collaborate on a project or just want to chat!
+Feel free to reach out if you want to collaborate on exciting projects or just have a chat!
 
 [![Twitter Badge](https://img.shields.io/badge/-Follow%20on%20Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sarmingo)
 [![LinkedIn Badge](https://img.shields.io/badge/-Connect%20on%20LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarmingo)
+
+## 📊 Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sarmingo&theme=github&hide_border=true) <!-- Replace with your username -->
