@@ -94,6 +94,52 @@ local function RequestSpawnReconcile()
     end)
 end
 
+-- My Listed Vehicles UI
+function ShowMyListedVehicles()
+    ESX.TriggerServerCallback('autopijaca:getMyListedVehicles', function(myVehicles)
+        if not myVehicles or #myVehicles == 0 then
+            return lib.notify({ title = 'Autopijaca', description = 'Nemaš vozila na prodaji', type = 'info' })
+        end
+
+        -- also update state
+        SetState('myListedVehicles', myVehicles)
+
+        local options = {}
+        for _, vehicle in ipairs(myVehicles) do
+            local daysLeft = tonumber(vehicle.daysLeft or 0) or 0
+            table.insert(options, {
+                title = ('%s - %s'):format(vehicle.vehicle_label, vehicle.vehicle_plate),
+                description = ('Cijena: $%s | Preostalo dana: %.0f'):format(ESX.Math.GroupDigits(vehicle.sell_price), daysLeft),
+                metadata = {
+                    { label = 'Parking mjesto', value = vehicle.spot_index },
+                    { label = 'Datum postavljanja', value = tostring(vehicle.listed_date) }
+                },
+                onSelect = function()
+                    ShowVehicleManagementOptions(vehicle)
+                end
+            })
+        end
+
+        lib.registerContext({ id = 'my_listed_vehicles', title = 'Moja vozila na prodaji', options = options })
+        lib.showContext('my_listed_vehicles')
+    end)
+end
+
+function ShowVehicleManagementOptions(vehicleData)
+    local options = {
+        {
+            title = 'Vrati vozilo u garažu',
+            description = 'Ukloni vozilo sa prodaje',
+            icon = 'fa-solid fa-arrow-left',
+            onSelect = function()
+                ReturnMyVehicle(vehicleData.spot_index)
+            end
+        }
+    }
+    lib.registerContext({ id = 'vehicle_management', title = ('Upravljanje: %s'):format(vehicleData.vehicle_label), options = options })
+    lib.showContext('vehicle_management')
+end
+
 AddEventHandler('onResourceStart', function(resourceName)
     if GetCurrentResourceName() ~= resourceName then return end
     CreateThread(function()
